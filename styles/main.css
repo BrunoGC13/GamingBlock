@@ -12,14 +12,6 @@
             line-height: 1.6;
             overflow-x: hidden;
         }
-
-        /* Header-Bereich */
-        header {
-            position: relative;
-            height: 400px;
-            background-image: url("../img/gb-image-1.png");
-        }
-
         nav {
             display: flex;
             justify-content: center;
